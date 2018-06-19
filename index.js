@@ -16,7 +16,7 @@ $('.typeIt').typeIt({
 .tiPause(1000)
 .tiSettings({speed: 100})
 
-.tiType('I am a university student from munich, germany.')
+.tiType('i am a university student from munich, germany.')
 .tiPause(1800)
 .tiBreak()
 .tiPause(1000)
